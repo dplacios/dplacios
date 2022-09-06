@@ -8,5 +8,5 @@ Desde 1992 atendemos a pacientes particulares así como a los principales seguro
 <!---
 Este es el perfil de trabajo de ASMED MEDICAL S.L.U, en este repositorio encontraras los desarrollos de la empresa.
 --->
-<p> Imagen de como nos sentimos a la hora de subir algo a producción 👀👀 💞️💞️💞️ ;)</p>
+- 👀 Imagen de como nos sentimos a la hora de subir algo a producción 👀👀 💞️💞️💞️ ;)
 ![code-34](https://user-images.githubusercontent.com/103926287/188626342-7f3c815e-fa3f-41f9-82f8-13c9efa316e4.gif)
