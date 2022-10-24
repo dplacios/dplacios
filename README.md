@@ -10,3 +10,7 @@ Este es el perfil de trabajo de ASMED MEDICAL S.L.U, en este repositorio encontr
 --->
 - 👀 Imagen de como nos sentimos a la hora de subir algo a producción 👀👀 
 ![code-34](https://user-images.githubusercontent.com/103926287/188626342-7f3c815e-fa3f-41f9-82f8-13c9efa316e4.gif)
+
+
+🔧 ⚙️ 🛠️ My Technological Stack :
+Java  Spring Boot  Python  MySQL  Android  Kotlin  PostgreSQL  Oracle  HTML5  CSS3  GIT  GitHub  C#  
